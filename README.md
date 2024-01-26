@@ -19,3 +19,8 @@ This projects is design with the aim to develop an advanced algorithmic trading 
 **Investment Strategy Optimization:** Synthesize findings from the analysis to formulate a data-driven, optimized investment strategy in the banking sector.
 
 By addressing this problem, this project will not only offer valuable insights for investors looking to navigate the complexities of the banking stock market but also showcase the benefits of applying data analysis techniques to real-world financial challenges.
+
+All the files in this Historical Data Analysis is licensed under Attribution-NonCommercial-ShareAlike 4.0 International
+http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1
+
+### Contributions are welcome!
