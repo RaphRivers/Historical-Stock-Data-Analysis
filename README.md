@@ -1,5 +1,5 @@
 # Historical Stock Data Analysis
-### Problem Definition: "Optimizing Investment Strategies in the Banking Sector Using Historical Stock Data Analysis"
+### Problem Definition: "Optimizing Investment Strategies in the Banking Sector Using Historical Stock Data"
 
 ### Overview:
 In the volatile world of bank stocks, investors and financial analysts seek to maximize returns while minimizing risks. However, the challenge lies in the dynamic nature of the stock market, where numerous factors influence stock prices. Traditional investment strategies often fail to adapt to rapid market changes, leading to suboptimal decision-making.
