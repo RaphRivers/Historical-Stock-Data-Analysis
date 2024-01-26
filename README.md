@@ -5,7 +5,7 @@
 In the volatile world of bank stocks, investors and financial analysts seek to maximize returns while minimizing risks. However, the challenge lies in the dynamic nature of the stock market, where numerous factors influence stock prices. Traditional investment strategies often fail to adapt to rapid market changes, leading to suboptimal decision-making.
 
 ### Specific Problem:
-Your project aims to develop an advanced algorithmic trading strategy tailored to the banking sector. The primary goal is to analyze five years of historical stock data from selected banks to identify which stocks were most and least risky, understand the correlation between these stocks, and how these correlations affect their closing prices. Furthermore, the project will visualize moving averages to spot trends and use predictive modeling to forecast which banks are likely to perform well in the next five years. This analysis will assist in making more informed investment decisions.
+This projects is design with the aim to develop an advanced algorithmic trading strategy tailored to the banking sector. The primary goal is to analyze years of historical stock data from selected banks to identify which stocks were most and least risky, understand the correlation between these stocks, and how these correlations affect their closing prices. Furthermore, the project will visualize moving averages to spot trends and use predictive modeling to forecast which banks are likely to perform well in the next five years. This analysis will assist in making more informed investment decisions.
 
 ### Key Objectives:
 **Risk Assessment:** Determine the risk levels of selected bank stocks based on historical data, identifying which were the most and least volatile over the past five years.
